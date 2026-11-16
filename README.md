@@ -1,13 +1,9 @@
-# \# aspnet-kt02-page-editor
+# aspnet-kt02-page-editor
 
-# 
+# Описание
 
-# \## Описание
+# ![Описание](screenshots/2.png)
 
-# !\[Описание](screenshots/2.png)
+# Результат
 
-# 
-
-# \## Результат
-
-# !\[Результат 1](screenshots/1.png)
+# ![Результат 1](screenshots/1.png)
